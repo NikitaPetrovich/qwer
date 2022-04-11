@@ -25,6 +25,7 @@ public class DeveloperRunner {
         developerRunner.addDeveloper("Peter", "UI", "UI Developer", 4);
 
         System.out.println("List of developers");
+        System.out.println("List of developers1");
         /**
          * List developers
          */
