@@ -26,7 +26,6 @@ public class DeveloperRunner {
 
         System.out.println("List of developers");
         System.out.println("List of developers1");
-        System.out.println("List of developers2");
         /**
          * List developers
          */
